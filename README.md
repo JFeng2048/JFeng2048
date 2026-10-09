@@ -22,20 +22,33 @@
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-**Frameworks & Tools**
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square\&logo=go\&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square\&logo=grpc\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-AI%20Engineering-7C3AED?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=flat-square)
+
+**Frontend & Desktop**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square\&logoColor=white)
-![Wails](https://img.shields.io/badge/Wails-DF4F4F?style=flat-square\&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square\&logoColor=white)
+![Wails](https://img.shields.io/badge/Wails-DF4F4F?style=flat-square\&logo=wails\&logoColor=white)
+
+**Database & Infrastructure**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
 
 ### 🧠 What I Value
 
