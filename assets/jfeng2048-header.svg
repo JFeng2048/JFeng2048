@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">JFeng2048</title>
+  <desc id="desc">JFeng2048 的个人 GitHub 主页，高对比巨字与红色构建线。</desc>
+  <rect width="1200" height="340" fill="#f1efe7"/>
+  <path d="M0 0H1200V2H0zM0 338H1200V340H0z" fill="#11110f"/>
+  <text x="38" y="52" fill="#11110f" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">JFeng2048 / Personal README</text>
+  <text x="1162" y="52" text-anchor="end" fill="#11110f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">AI / BACKEND / DEV TOOLS</text>
+  <text x="30" y="270" fill="#11110f" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="190" font-weight="900" letter-spacing="-10" textLength="1130" lengthAdjust="spacingAndGlyphs">JFENG2048</text>
+  <polygon points="668,192 1158,142 1164,194 674,244" fill="#ed4937" style="mix-blend-mode:multiply"/>
+  <rect x="38" y="300" width="94" height="8" fill="#ed4937"/>
+  <text x="150" y="310" fill="#11110f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">BUILD / UNDERSTAND / AUTOMATE</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Selected Work — Arena Mode</title>
+  <desc id="desc">五个项目，五个回合，主要使用 Go 与 Python。</desc>
+  <rect width="1200" height="190" fill="#11110f"/>
+  <rect x="0" y="0" width="14" height="190" fill="#ed4937"/>
+  <text x="38" y="128" fill="#f1efe7" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="92" font-weight="900" letter-spacing="-5" textLength="800" lengthAdjust="spacingAndGlyphs">SELECTED WORK</text>
+  <polygon points="970,40 1160,14 1160,70 970,96" fill="#ed4937"/>
+  <text x="1160" y="137" text-anchor="end" fill="#f1efe7" font-family="Consolas, monospace" font-size="20" font-weight="700">ARENA MODE / 5 ROUNDS</text>
+  <rect x="972" y="153" width="88" height="8" fill="#ffd43b"/>
+  <rect x="1070" y="153" width="90" height="8" fill="#35d7e8"/>
+</svg>

@@ -1,65 +1,78 @@
-# 👋 Hi, I'm JFeng
+<img src="assets/jfeng2048-header.svg" alt="JFeng2048 — Personal GitHub Profile" width="100%">
 
-### 用代码解决问题，用工程实现想法。
+<img src="assets/go-python-collaboration.gif" alt="官方 Go 地鼠与 Python 双蛇标志抛接代码模块，组队完成 SHIP IT" width="100%">
 
-一个喜欢探索技术、折腾开源项目和构建实用工具的开发者。
+<img src="assets/tech-stack.svg" alt="JFeng2048 Tech Stack" width="100%">
 
-关注 AI 工程、后端系统与开发者工具，喜欢从一个想法出发，研究技术方案、设计系统结构，再一步步把它实现出来。
+<table>
+  <tr>
+    <td width="170"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-11110F?style=flat-square&logo=go&logoColor=white" alt="Go">
+      <img src="https://img.shields.io/badge/Python-11110F?style=flat-square&logo=python&logoColor=white" alt="Python">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & AI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-11110F?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Gin-11110F?style=flat-square&logo=go&logoColor=white" alt="Gin">
+      <img src="https://img.shields.io/badge/gRPC-11110F?style=flat-square&logo=grpc&logoColor=white" alt="gRPC">
+      <img src="https://img.shields.io/badge/LLM-ED4937?style=flat-square" alt="LLM">
+      <img src="https://img.shields.io/badge/RAG-ED4937?style=flat-square" alt="RAG">
+      <img src="https://img.shields.io/badge/Agent-ED4937?style=flat-square" alt="Agent">
+      <img src="https://img.shields.io/badge/MCP-ED4937?style=flat-square" alt="MCP">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend & Desktop</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-11110F?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js">
+      <img src="https://img.shields.io/badge/Wails-11110F?style=flat-square&logo=wails&logoColor=white" alt="Wails">
+      <img src="https://img.shields.io/badge/Cross--platform-11110F?style=flat-square" alt="Cross-platform">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database & Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-11110F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/PostgreSQL-11110F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Redis-11110F?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/Docker-11110F?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Kubernetes-11110F?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+      <img src="https://img.shields.io/badge/Linux-11110F?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧭 技术方向
+<img src="assets/selected-work.svg" alt="Selected Work — Arena Mode，五个项目回合" width="100%">
 
-* **AI Engineering** — LLM、RAG、Agent、MCP 与 AI 应用开发
-* **Backend Development** — Go、Python、API 设计、微服务与服务间通信
-* **Frontend & Desktop** — Vue、TypeScript、跨平台桌面应用
-* **Developer Tools** — 自动化工作流、效率工具与开发环境
-* **Open Source** — 阅读源码、探索开源生态、实践工程设计
+<table>
+  <tr><th width="100" align="left">ROUND</th><th align="left">PROJECT / SPECIAL MOVE</th></tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/R01-ED4937?style=flat-square" alt="Round 01"></td>
+    <td><strong><a href="https://github.com/ncepu-iDealStudio/Fast-Https">Fast-Https</a></strong><br>轻量级 Web 服务器与反向代理。单二进制、JSON 配置、HTTP/2、自动 HTTPS，RPC 与 WebSocket 一并拿下。<br><img src="https://img.shields.io/badge/Go-11110F?style=flat-square&logo=go&logoColor=white" alt="Go"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/R02-ED4937?style=flat-square" alt="Round 02"></td>
+    <td><strong><a href="https://github.com/ncepu-iDealStudio/.ncepu_ideal-skills">.ncepu_ideal-skills</a></strong><br>「模板＋配置＋规范」驱动，把 SQL / MySQL DDL 变成 FastAPI、Flask、Gin 项目脚手架，支持增量更新。<br><img src="https://img.shields.io/badge/Go-11110F?style=flat-square&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Python-11110F?style=flat-square&logo=python&logoColor=white" alt="Python"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/R03-ED4937?style=flat-square" alt="Round 03"></td>
+    <td><strong><a href="https://github.com/JFeng2048/agent-design-skills">agent-design-skills</a></strong><br>把 Agent 设计方法做成可复用 Skill：系统提示词、状态栏、用户记忆、RAG 管线，一套流程直接复用。<br><img src="https://img.shields.io/badge/Python-11110F?style=flat-square&logo=python&logoColor=white" alt="Python"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/R04-ED4937?style=flat-square" alt="Round 04"></td>
+    <td><strong><a href="https://github.com/JFeng2048/Wslc-Desktop">Wslc-Desktop</a></strong><br>Windows 上的 WSL 容器管理台。容器、镜像、卷、网络，一屏搞定；少敲命令，多点确定。<br><img src="https://img.shields.io/badge/Go-11110F?style=flat-square&logo=go&logoColor=white" alt="Go"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/R05-ED4937?style=flat-square" alt="Round 05"></td>
+    <td><strong><a href="https://github.com/JFeng2048/museflow">museflow</a></strong><br>微服务智能小说生成平台：数据爬取 → RAG 增强 → 异步调度 → 多平台发布，一条龙打通。<br><img src="https://img.shields.io/badge/Go-11110F?style=flat-square&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Python-11110F?style=flat-square&logo=python&logoColor=white" alt="Python"></td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack
+---
 
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-**Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square\&logo=go\&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square\&logo=grpc\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-AI%20Engineering-7C3AED?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=flat-square)
-
-**Frontend & Desktop**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
-![Wails](https://img.shields.io/badge/Wails-DF4F4F?style=flat-square\&logo=wails\&logoColor=white)
-
-**Database & Infrastructure**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-
-
-### 🧠 What I Value
-
-* **Engineering over demos** — 不止让代码运行，更关注结构、可靠性与可维护性。
-* **Understanding over copying** — 喜欢理解技术背后的原理，而不只是照搬现成方案。
-* **Building over imagining** — 把想法转化为可以使用、验证和持续改进的产品。
-* **Automation over repetition** — 乐于探索如何用代码和 AI 减少重复劳动。
-
-### 🔭 Currently Exploring
-
-* AI Agent 的设计与工程化
-* RAG 与知识检索系统
-* Go 后端与跨平台应用
-* AI 辅助开发与自动化工作流
+<a href="https://github.com/JFeng2048"><img src="assets/footer.svg" alt="JFeng2048 — Keep Building" width="100%"></a>
